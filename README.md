@@ -14,4 +14,4 @@ This being my first moon, it's probably very bad and unbalanced, but it function
 
     C:/Users\[YOUR NAME HERE]\Thunderstore Mod Manager\DataFolder\LethalCompany/profiles\[PROFILE NAME HERE]\BepInEx/plugins
 
-**This mod requires LethalLevelLaoder to run.**
+**This mod requires LethalLevelLoader to run.**
