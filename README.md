@@ -15,3 +15,6 @@ This being my first moon, it's probably very bad and unbalanced, but it function
     C:/Users\[YOUR NAME HERE]\Thunderstore Mod Manager\DataFolder\LethalCompany/profiles\[PROFILE NAME HERE]\BepInEx/plugins
 
 **This mod requires LethalLevelLoader to run.**
+
+
+Alternatively, you can download this mod on Thunderstore [here](https://thunderstore.io/c/lethal-company/p/Kirbzzy/Astration/).
